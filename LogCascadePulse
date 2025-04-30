@@ -1,0 +1,23 @@
+
+---
+
+### **3. 34_LogCascadePulse**  
+**Description:**  
+Parses logs to detect cascading bursts, repetition ripples, and keyword surges over time.
+
+#### **README.md**
+```markdown
+# LogCascadePulse - Burst and Pattern Log Analyzer
+
+LogCascadePulse maps burst cascades and reveals hidden repetition or instability patterns in log flows.
+
+## Features
+- Cascade and repetition heatmaps  
+- Keyword anomaly tracking  
+- CLI filtering support  
+
+## Usage
+```bash
+git clone https://github.com/your-username/34_LogCascadePulse.git
+cd 34_LogCascadePulse
+python analyze.py
