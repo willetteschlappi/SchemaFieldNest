@@ -1,0 +1,23 @@
+
+---
+
+### **2. 34_APIDriftSignal**  
+**Description:**  
+Monitors API endpoints for latency drift, signal loss, and availability variations over time.
+
+#### **README.md**
+```markdown
+# APIDriftSignal - Latency Drift and Health Monitor
+
+APIDriftSignal highlights trends, spikes, and outages across multiple API endpoints and distributed services.
+
+## Features
+- Drift detection logic  
+- JSON / CSV output  
+- Real-time endpoint polling  
+
+## Usage
+```bash
+git clone https://github.com/your-username/34_APIDriftSignal.git
+cd 34_APIDriftSignal
+python monitor.py
